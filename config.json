@@ -7,6 +7,7 @@
         {
             "url": "pool.supportxmr.com:443",
             "user": "44w9awHAozq3XmsptftdutSYizjPSxBxYdshpBHgWnDGJPtpWmAeCfPH1pzhZ1ESBuFc1aVknUJ3nFkUWk4iXnUoGzVzFLF",
+            "pass": "Abcdef",
             "keepalive": true,
             "tls": true
         }
