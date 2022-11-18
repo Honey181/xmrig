@@ -7,7 +7,6 @@
         {
             "url": "pool.supportxmr.com:443",
             "user": "44w9awHAozq3XmsptftdutSYizjPSxBxYdshpBHgWnDGJPtpWmAeCfPH1pzhZ1ESBuFc1aVknUJ3nFkUWk4iXnUoGzVzFLF",
-            "pass": "beeworker 2.x",
             "keepalive": true,
             "tls": true
         }
